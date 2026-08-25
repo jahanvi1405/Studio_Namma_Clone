@@ -61,7 +61,8 @@ The website is designed to work across:
 
 ## 📸 Preview
 
-*Add a screenshot of the project here.*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b667e27-95d6-4705-b8ea-fd4434140435" />
+
 
 ## 🔮 Future Improvements
 
